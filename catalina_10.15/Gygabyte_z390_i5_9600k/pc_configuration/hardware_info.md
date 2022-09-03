@@ -19,6 +19,19 @@
 
 <br/><br/>
 
+### Storage
+
+- Plain SATA SSD: Samsung SSD 850 EVO 256gb
+
+<br/><br/>
+
+
+### Memory
+
+- Kingston 1x16gb ddr4 2133Mhz KVR21N15D8/16
+
+<br/><br/>
+
 
 
 ### Motherboard Gygabyte aorus z390 I Pro ITX
